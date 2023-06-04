@@ -1,2 +1,2 @@
-# COMPUTERSCIENCE-Data-Structure
+# Data-Structure
 Data Structures and Algorithms
