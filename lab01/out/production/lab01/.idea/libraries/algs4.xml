@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="algs4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../library-fa22/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library-fa22/junit-platform-console-standalone-1.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library-fa22/ucb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../library-fa22/xchart-3.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../library-fa22/algs4.jar!/" />
+    </SOURCES>
+  </library>
+</component>
